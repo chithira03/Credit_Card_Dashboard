@@ -1,4 +1,4 @@
-# Credit Card Dashboard Using PowerBi
+# Credit Card Dashboard Using PowerBI
 A Power BI dashboard that provides real-time insights into key performance metrics and trends for credit card transactions. The project uses SQL for data storage, DAX for calculations, and Power BI for visualization
 
 ### The objective of this project is to develop an interactive and dynamic dashboard that enables businesses, analysts, and financial professionals to:

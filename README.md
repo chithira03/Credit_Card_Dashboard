@@ -12,3 +12,5 @@ The dataset consists of transaction data extracted from an SQL database. It incl
 Customer details (age, income, credit card type, etc.).
 Transaction records (total transaction amount, frequency, and type).
 Revenue metrics (annual fees, interest earned, and transaction charges).
+
+![Workout](https://github.com/user-attachments/assets/6ed478ef-a511-4bc3-89ce-16c49d86ac5a)
